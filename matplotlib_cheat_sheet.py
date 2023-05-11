@@ -172,7 +172,7 @@ with col2:
 
     col21, col22 = st.columns([1,4])
     with col21:
-        st.image("static/chart9.jpg", use_column_width=True)
+        st.image("static/chart10.jpg", use_column_width=True)
     with col22:
         st.markdown("**violinplot**(D,…)")
         st.caption("D, positions, widths, ver")    
