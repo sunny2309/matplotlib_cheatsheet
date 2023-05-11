@@ -1,8 +1,4 @@
 import streamlit as st
-from streamlit_extras.badges import badge
-
-import numpy as np
-from PIL import Image
 
 st.set_page_config(layout="wide")
 
